@@ -1,5 +1,5 @@
 # C# ADO.NET Contact List
-A simple ADO.NET contact list application developed with Winforms, ADO.NET and C#.
+Contact list application developed with Winforms, ADO.NET and C#.
 
 This project contains different approach (Connected, Disconnected) for ADO.NET operations.
 
@@ -28,4 +28,4 @@ Afterwards, set properly provider and provider connection settings in `App.confi
 # License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details
 
-Created by [Yusuf SEZER](http://www.yusufsezer.com)
+Created by [Yusuf Sezer](https://www.yusufsezer.com)
